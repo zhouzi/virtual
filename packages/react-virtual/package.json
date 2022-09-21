@@ -37,7 +37,7 @@
     "src"
   ],
   "dependencies": {
-    "@zhouzi/virtual-core": "3.0.0-beta.18"
+    "@zhouzi/virtual-core": "3.0.0-beta.19"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
