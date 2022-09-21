@@ -1,5 +1,5 @@
 {
-  "name": "@tanstack/virtual-core",
+  "name": "@zhouzi/virtual-core",
   "author": "Tanner Linsley",
   "version": "3.0.0-beta.18",
   "description": "Headless UI for virtualizing scrollable elements in TS/JS + Frameworks",
